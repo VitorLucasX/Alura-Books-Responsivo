@@ -1,5 +1,7 @@
 ### Projeto do Curso Alura Books
 
+Projeto do site Alura Books com carrossel e menuburguer em JavaScript
+
 <h4>Tecnologias usadas:</h4>
 <div style="display: inline-block"><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" align="center"/>
